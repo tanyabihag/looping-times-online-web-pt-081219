@@ -4,6 +4,12 @@ def using_times
     "
 end
 
+times = 7
+case times
+  when times == 7 
+    puts "Wingardium Leviosa"
+end
+
 
 
 
